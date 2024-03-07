@@ -18,3 +18,5 @@ pub:
 
 docker:
 	docker build --rm -t $(TAG) .
+	docker login
+	docker push $(TAG)

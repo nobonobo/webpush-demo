@@ -1,0 +1,7 @@
+{
+  "name": "WebPush Demo",
+  "short_name": "WebPushDemo",
+  "lang": "ja",
+  "display": "standalone",
+  "start_url": "/"
+}
